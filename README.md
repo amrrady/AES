@@ -1,1 +1,1 @@
-# Advanced Encryption Standards Algorithm
+# Advanced Encryption Standards Algorithm (Securiy course assignment 2015)
